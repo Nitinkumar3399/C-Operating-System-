@@ -144,7 +144,7 @@ int main()
         }
         cout<<endl;   
     }
-    cout<<endl;
+    
 
 	// Resources allocated to processes
     cout<<"Resources ALLOCATED to processes"<<endl;
